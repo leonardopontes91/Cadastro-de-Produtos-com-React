@@ -1,0 +1,17 @@
+header{
+    padding: 20px 30px;
+}
+
+section {
+    padding: 100px 50px;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-top: 1px solid #00000068;
+   
+    padding: 20px 30px;
+}

@@ -1,0 +1,17 @@
+/* Aqui estou fazendo um override ou uma sobrescrita de código no css do bootstrap */
+.modal-dialog {
+    max-width: 780px;
+    
+}
+.form-control{
+    background-color: #f1faee;
+    border-width: 1px;
+    border-color: gray;
+}
+.modal-content{
+    background-color: #f1faee;
+
+}
+.form-control:focus{
+    background-color: #f1faee;
+}
